@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\AboutController;
+use App\Http\Controllers\ContactController;
 use App\Http\Controllers\FieldController;
 use App\Http\Controllers\LegalRecordController;
 use App\Http\Controllers\ProfileController;
@@ -31,12 +32,16 @@ Route::controller(AboutController::class)->group(function () {
 });
 Route::controller(FieldController::class)->group(function () {
     Route::get('/field_of_activity', 'Show')->name('');
+    Route::get('/field_of_activity/{id}', 'showDetail')->name('');
 });
 Route::controller(LegalRecordController::class)->group(function () {
     Route::get('/legal_record', 'Show')->name('');
 });
 Route::controller(AboutController::class)->group(function () {
     Route::get('/about', 'Show')->name('');
+});
+Route::controller(ContactController::class)->group(function () {
+    Route::get('/contact', 'Show')->name('');
 });
 Route::get('/dashboard', function () {
     return view('admin.dashboard');

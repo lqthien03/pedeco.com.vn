@@ -9,10 +9,9 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
     <!-- Title, Keywords, Description -->
-    <title>GIỚI THIỆU CHUNG VỀ KHU LIÊN HỢP XỬ LÝ CHẤT THẢI LA GI</title>
+    <title>Lĩnh vực hoạt động</title>
     <meta name="keywords" content="" />
-    <meta name="description"
-        content="Cải thiện chất lượng môi trường sống cho người dân trên địa bàn thị xã La Gi, tạo ra môi trường thuận lợi về xử lý chất thải để thu hút các nhà đầu tư đến đầu tư tại địa phương." />
+    <meta name="description" content="" />
 
     <!-- Robots -->
     <meta name="robots" content="index,follow" />
@@ -34,59 +33,55 @@
     <meta name="copyright" content="PEDACO - [info@pedaco.com.vn]" />
 
     <!-- Facebook -->
-    <meta property="og:type" content="article" />
+    <meta property="og:type" content="object" />
     <meta property="og:site_name" content="PEDACO" />
-    <meta property="og:title" content="GIỚI THIỆU CHUNG VỀ KHU LIÊN HỢP  XỬ LÝ CHẤT THẢI LA GI" />
-    <meta property="og:description"
-        content="Cải thiện chất lượng môi trường sống cho người dân trên địa bàn thị xã La Gi, tạo ra môi trường thuận lợi về xử lý chất thải để thu hút các nhà đầu tư đến đầu tư tại địa phương." />
-    <meta property="og:url" content="http://pedaco.com.vn/hieu-chung" />
-    <meta property="og:image"
-        content="http://pedaco.com.vn/thumbs/900x600x2/upload/news/environmental-audit-reporting-good-pr-or-bad-press-5124.jpg" />
-    <meta property="og:image:alt" content="GIỚI THIỆU CHUNG VỀ KHU LIÊN HỢP  XỬ LÝ CHẤT THẢI LA GI" />
-    <meta property="og:image:type" content="image/jpeg" />
-    <meta property="og:image:width" content="900" />
-    <meta property="og:image:height" content="600" />
+    <meta property="og:title" content="Lĩnh vực hoạt động" />
+    <meta property="og:description" content="" />
+    <meta property="og:url" content="http://pedaco.com.vn/linh-vuc-hoat-dong" />
+    <meta property="og:image" content="" />
+    <meta property="og:image:alt" content="Lĩnh vực hoạt động" />
+    <meta property="og:image:type" content="" />
+    <meta property="og:image:width" content="" />
+    <meta property="og:image:height" content="" />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="info@pedaco.com.vn" />
     <meta name="twitter:creator" content="PEDACO" />
-    <meta property="og:url" content="http://pedaco.com.vn/hieu-chung" />
-    <meta property="og:title" content="GIỚI THIỆU CHUNG VỀ KHU LIÊN HỢP  XỬ LÝ CHẤT THẢI LA GI" />
-    <meta property="og:description"
-        content="Cải thiện chất lượng môi trường sống cho người dân trên địa bàn thị xã La Gi, tạo ra môi trường thuận lợi về xử lý chất thải để thu hút các nhà đầu tư đến đầu tư tại địa phương." />
-    <meta property="og:image"
-        content="http://pedaco.com.vn/thumbs/900x600x2/upload/news/environmental-audit-reporting-good-pr-or-bad-press-5124.jpg" />
+    <meta property="og:url" content="http://pedaco.com.vn/linh-vuc-hoat-dong" />
+    <meta property="og:title" content="Lĩnh vực hoạt động" />
+    <meta property="og:description" content="" />
+    <meta property="og:image" content="" />
 
     <!-- Canonical -->
-    <link rel="canonical" href="http://pedaco.com.vn/hieu-chung" />
+    <link rel="canonical" href="http://pedaco.com.vn/linh-vuc-hoat-dong" />
 
     <!-- Chống đổi màu trên IOS -->
     <meta name="format-detection" content="telephone=no">
 
     <!-- Viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <link href="./assets/css/animate.min.css?v=XjPzqb1zfC" rel="stylesheet">
-    <link href="./assets/bootstrap/bootstrap.css?v=i8As4cHOhH" rel="stylesheet">
-    <link href="./assets/css/all.css?v=tcQhpsuDVF" rel="stylesheet">
-    <link href="./assets/fancybox3/jquery.fancybox.css?v=U1bwwaR1AG" rel="stylesheet">
-    <link href="./assets/fancybox3/jquery.fancybox.style.css?v=ZB8CrZbTOQ" rel="stylesheet">
-    <link href="./assets/login/login.css?v=R61z4Dxy2" rel="stylesheet">
-    <link href="./assets/css/cart.css?v=IqyVGg83Vv" rel="stylesheet">
-    <link href="./assets/photobox/photobox.css?v=IZ4fDfnJpN" rel="stylesheet">
-    <link href="./assets/slick/slick.css?v=tq06rSIWd0" rel="stylesheet">
-    <link href="./assets/slick/slick-theme.css?v=7Lp5W1LYWv" rel="stylesheet">
-    <link href="./assets/slick/slick-style.css?v=etb6f51VG" rel="stylesheet">
-    <link href="./assets/simplyscroll/jquery.simplyscroll.css?v=1dqWrvbgvt" rel="stylesheet">
-    <link href="./assets/simplyscroll/jquery.simplyscroll-style.css?v=m6ILtW88fD" rel="stylesheet">
-    <link href="./assets/fotorama/fotorama.css?v=QXomLaCW8b" rel="stylesheet">
-    <link href="./assets/fotorama/fotorama-style.css?v=wtIC83N4s" rel="stylesheet">
-    <link href="./assets/magiczoomplus/magiczoomplus.css?v=1Ap88edCWQ" rel="stylesheet">
-    <link href="./assets/datetimepicker/jquery.datetimepicker.css?v=F3TSwOIVJo" rel="stylesheet">
-    <link href="./assets/owlcarousel2/owl.carousel.css?v=LZuPGqNNvZ" rel="stylesheet">
-    <link href="./assets/owlcarousel2/owl.theme.default.css?v=sq6vsYaXZk" rel="stylesheet">
-    <link href="./assets/css/style.css?v=bwPyZm7Dbd" rel="stylesheet">
-    <link href="./assets/css/media.css?v=fw6bLL1SG2" rel="stylesheet">
+    <link href="./assets/css/animate.min.css?v=TyM5rWTrbv" rel="stylesheet">
+    <link href="./assets/bootstrap/bootstrap.css?v=urmXvGDuN" rel="stylesheet">
+    <link href="./assets/css/all.css?v=A29zxfa7BA" rel="stylesheet">
+    <link href="./assets/fancybox3/jquery.fancybox.css?v=xAMkwrLqm" rel="stylesheet">
+    <link href="./assets/fancybox3/jquery.fancybox.style.css?v=xasgnoeD7b" rel="stylesheet">
+    <link href="./assets/login/login.css?v=COH0Rt9pM8" rel="stylesheet">
+    <link href="./assets/css/cart.css?v=skFFXbEDhW" rel="stylesheet">
+    <link href="./assets/photobox/photobox.css?v=GB6ZwOmcJD" rel="stylesheet">
+    <link href="./assets/slick/slick.css?v=FfZFcvE0rt" rel="stylesheet">
+    <link href="./assets/slick/slick-theme.css?v=WmQWJr4iDC" rel="stylesheet">
+    <link href="./assets/slick/slick-style.css?v=y7qVba6Gd" rel="stylesheet">
+    <link href="./assets/simplyscroll/jquery.simplyscroll.css?v=GIdtpURP26" rel="stylesheet">
+    <link href="./assets/simplyscroll/jquery.simplyscroll-style.css?v=Wkde7IdB1" rel="stylesheet">
+    <link href="./assets/fotorama/fotorama.css?v=3P0wqzeoAt" rel="stylesheet">
+    <link href="./assets/fotorama/fotorama-style.css?v=inqYfQOsrg" rel="stylesheet">
+    <link href="./assets/magiczoomplus/magiczoomplus.css?v=8CxWvNffqV" rel="stylesheet">
+    <link href="./assets/datetimepicker/jquery.datetimepicker.css?v=FqCznLZW7p" rel="stylesheet">
+    <link href="./assets/owlcarousel2/owl.carousel.css?v=oqOPtcEUwl" rel="stylesheet">
+    <link href="./assets/owlcarousel2/owl.theme.default.css?v=fGhV79GiMO" rel="stylesheet">
+    <link href="./assets/css/style.css?v=O0tC3CGuzk" rel="stylesheet">
+    <link href="./assets/css/media.css?v=rDzjIJ9NIW" rel="stylesheet">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-S0Z4P4QZF4"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -108,7 +103,7 @@
             <li class="h-tel tel">0902384797</li>
             <li><a class="u-url ul" href="http://pedaco.com.vn/">http://pedaco.com.vn/</a></li>
         </ul>
-        <h1 class="hidden-seoh">Tổng quan Khu Liên Hợp Xử Lý Chất Thải Lagi</h1>
+        <h1 class="hidden-seoh">Lĩnh vực hoạt động</h1>
         <div class="menu tss">
             <div class="flex wrap ja wap_1200">
                 <div class="logo tss">
@@ -117,47 +112,48 @@
                             src="thumbs/105x104x2/upload/photo/logopedacomoi-6080.png" /></a>
                 </div>
                 <ul class="menu_desktop flex ja">
-                    <li><a class="transition " href="" title="Trang chủ">
+                    <li><a class="transition " href="{{ url('/home') }}" title="Trang chủ">
                             <h2>Trang chủ</h2>
                         </a></li>
-                    <li><a class="transition active" href="gioi-thieu" title="Giới thiệu">
+                    <li><a class="transition " href="{{ url('/about') }}" title="Giới thiệu">
                             <h2>Giới thiệu</h2>
                         </a>
                         <ul>
-                            <li><span></span><a href="thu-ngo">
+                            <li><span></span><a href="{{ url('/about/open-letter') }}">
                                     <h2>Thư ngỏ</h2>
                                 </a></li>
-                            <li><span></span><a href="gioi-thieu-ve-chu-dau-tu">
+                            <li><span></span><a href="{{ url('/about/about-us') }}">
                                     <h2>Về chúng tôi</h2>
                                 </a></li>
-                            <li><span></span><a href="co-cau-nguon-luc-cong-ty">
+                            <li><span></span><a href="{{ url('/about/resource-structure') }}">
                                     <h2>Cơ cấu nguồn lực</h2>
                                 </a></li>
-                            <li><span></span><a href="hieu-chung">
+                            <li><span></span><a href="{{ url('/about/overview') }}">
                                     <h2>Tổng quan Khu Liên Hợp Xử Lý Chất Thải Lagi</h2>
                                 </a></li>
-                            <li><span></span><a href="nang-luc-van-chuyen">
+                            <li><span></span><a href="{{ url('/about/transport') }}">
                                     <h2>Năng lực vận chuyển</h2>
                                 </a></li>
                         </ul>
                     </li>
-                    <li><a class="transition " href="linh-vuc-hoat-dong" title="Lĩnh vực hoạt động">
+                    <li><a class="transition active" href="{{ url('field_of_activity') }}"
+                            title="Lĩnh vực hoạt động">
                             <h2>Lĩnh vực hoạt động</h2>
                         </a>
                         <ul>
-                            <li><span></span><a href="cong-nghe-xu-ly-chat-thai-nguy-hai">
+                            <li><span></span><a href="/field_of_activity/{id}">
                                     <h2>Xử lý chất thải nguy hại</h2>
                                 </a></li>
-                            <li><span></span><a href="cong-nghe-xu-ly-chat-thai-cong-nghiep">
+                            <li><span></span><a href="/field_of_activity/{id}">
                                     <h2>Xử lý chất thải công nghiệp</h2>
                                 </a></li>
-                            <li><span></span><a href="cong-nghe-xu-ly-chat-thai-sinh-hoat">
+                            <li><span></span><a href="/field_of_activity/{id}">
                                     <h2>Xử lý chất thải sinh hoạt</h2>
                                 </a></li>
-                            <li><span></span><a href="thu-mua-phe-lieu">
+                            <li><span></span><a href="/field_of_activity/{id}">
                                     <h2>Thu mua các loại phế liệu - Tái chế dầu nhớt thải</h2>
                                 </a></li>
-                            <li><span></span><a href="tieu-huy-hang-hoa">
+                            <li><span></span><a href="/field_of_activity/{id}">
                                     <h2>Thu gom - Vận chuyển - Tiêu hủy hàng hóa</h2>
                                 </a></li>
                         </ul>
@@ -211,118 +207,68 @@
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a class="text-decoration-none"
                             href="http://pedaco.com.vn/"><span>Trang chủ</span></a></li>
-                    <li class="breadcrumb-item "><a class="text-decoration-none"
-                            href="http://pedaco.com.vn/gioi-thieu"><span>Giới thiệu</span></a></li>
                     <li class="breadcrumb-item active"><a class="text-decoration-none"
-                            href="http://pedaco.com.vn/hieu-chung"><span>Tổng quan Khu Liên Hợp Xử Lý Chất Thải
-                                Lagi</span></a></li>
+                            href="http://pedaco.com.vn/linh-vuc-hoat-dong"><span>Lĩnh vực hoạt động</span></a></li>
                 </ol>
-                <script type="application/ld+json">{"@context": "https://schema.org","@type": "BreadcrumbList","itemListElement": [{"@type":"ListItem","position":1,"name":"Gi\u1edbi thi\u1ec7u","item":"http:\/\/pedaco.com.vn\/gioi-thieu"},{"@type":"ListItem","position":2,"name":"T\u1ed5ng quan Khu Li\u00ean H\u1ee3p X\u1eed L\u00fd Ch\u1ea5t Th\u1ea3i Lagi","item":"http:\/\/pedaco.com.vn\/hieu-chung"}]}</script>
+                <script type="application/ld+json">{"@context": "https://schema.org","@type": "BreadcrumbList","itemListElement": [{"@type":"ListItem","position":1,"name":"L\u0129nh v\u1ef1c ho\u1ea1t \u0111\u1ed9ng","item":"http:\/\/pedaco.com.vn\/linh-vuc-hoat-dong"}]}</script>
             </div>
         </div>
         <div class=" wrap-main wap_1200 pd50 w-clear">
-            <div class="w-clear">
-
-                <div class="righttt">
-                    <p class="pp1">Tổng quan Khu Liên Hợp Xử Lý Chất Thải Lagi</p>
-
-                    <div class="content-main w-clear" id="toc-content">
-                        <p style="text-align: justify;"><span style="font-size:18px;"><span
-                                    style="line-height:2;"><span style="color:#000000;"><strong>Quy mô Khu Liên hợp xử
-                                            lý chất thải La Gi</strong></span></span></span></p>
-
-                        <ul>
-                            <li>
-                                <p style="text-align: justify;"><span style="font-size:18px;"><span
-                                            style="line-height:2;"><span style="color:#000000;">Công suất: Khu liên
-                                                hiệp có công suất xử lý 450 tấn/ngày, trong đó: rác thải sinh hoạt là
-                                                195 tấn/ngày, 255 tấn/ngày rác thải công nghiệp và chất thải nguy
-                                                hại.</span></span></span></p>
-                            </li>
-                            <li>
-                                <p style="text-align: justify;"><span style="font-size:18px;"><span
-                                            style="line-height:2;"><span style="color:#000000;">Diện tích quy hoạch
-                                                của dự án: 30 hecta.</span></span></span></p>
-                            </li>
-                            <li>
-                                <p style="text-align: justify;"><span style="font-size:18px;"><span
-                                            style="line-height:2;"><span style="color:#000000;">PEDACO có năng lực về
-                                                phương tiện vận chuyển, đội xe trang bị đầy đủ trang thiết bị chuyên
-                                                dụng, đảm bảo công tác chuyên chở kịp thời và chuyên nghiệp
-                                                nhất.</span></span></span></p>
-                            </li>
-                        </ul>
-
-                        <p style="text-align: justify;"><span style="font-size:18px;"><span
-                                    style="line-height:2;"><span style="color:#000000;"><strong>Địa điểm: Thôn Tân Lý
-                                            1, Xã Tân Bình, Thị xã La Gi, Tỉnh Bình Thuận</strong></span></span></span>
-                        </p>
-
-                        <p style="text-align: justify;"><span style="font-size:18px;"><span
-                                    style="line-height:2;"><span style="color:#000000;"> Khoảng cách từ <strong>Khu
-                                            Liên hợp xử lý chất thải La Gi</strong> đến các khu công nghiệp, khu chế
-                                        xuất thuộc các tỉnh lân cận với cự ly ngắn, nằm trên trục đường chính, tạo điều
-                                        kiện thuận lợi trong việc thu gom, vận chuyển.</span></span></span></p>
-
-                        <p style="text-align: justify;"><span style="font-size:18px;"><span style="line-height:2;"><a
-                                        href="http://pedaco.com.vn/upload/elfinder/3333.jpg"><span
-                                            style="color:#000000;"><img alt=""
-                                                src="http://pedaco.com.vn/upload/elfinder/3333.jpg"
-                                                style="width: 900px;" /></span></a></span></span></p>
-
-                        <ul>
-                            <li style="text-align: justify;"><span style="font-size:18px;"><span
-                                        style="line-height:2;"><span style="color:#000000;">Cách Khu công nghiệp Hàm
-                                            Tân khoảng 15km.</span></span></span></li>
-                            <li style="text-align: justify;"><span style="font-size:18px;"><span
-                                        style="line-height:2;"><span style="color:#000000;">Cách Khu công nghiệp Hàm
-                                            Kiệm khoảng 50km.</span></span></span></li>
-                            <li style="text-align: justify;"><span style="font-size:18px;"><span
-                                        style="line-height:2;"><span style="color:#000000;">Cách Khu công nghiệp Phan
-                                            Thiết khoảng 60km.</span></span></span></li>
-                            <li style="text-align: justify;"><span style="font-size:18px;"><span
-                                        style="line-height:2;"><span style="color:#000000;">Cách cụm cảng Cái Mép –
-                                            Thị Vải 100km.</span></span></span></li>
-                            <li style="text-align: justify;"><span style="font-size:18px;"><span
-                                        style="line-height:2;"><span style="color:#000000;">Cách các Khu công nghiệp
-                                            lớn của Đồng Nai khoảng 100-130km, thị xã Long Khánh khoảng
-                                            80km.</span></span></span></li>
-                        </ul>
-
-                        <table align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%;">
-                            <tbody>
-                                <tr>
-                                    <td style="text-align: justify;"><span style="font-size:18px;"><span
-                                                style="line-height:2;"><span style="color:#000000;"> <img
-                                                        alt=""
-                                                        src="http://pedaco.com.vn/upload/elfinder/aaaaaaa.JPG"
-                                                        style="font-size: 16px; width: 90%;" /></span></span></span>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
-
-                        <p> </p>
+            <div class="title-main"><span>Lĩnh vực hoạt động</span></div>
+            <div class="content-main">
+                <div class="flex wrap wap_item">
+                    <div class="item">
+                        <a class="hover_sang1 sp_img" href="/field_of_activity/{id}"
+                            title="Xử lý chất thải nguy hại">
+                            <img onerror="this.src='thumbs/280x220x1/assets/images/noimage.png';"
+                                src="thumbs/280x220x1/upload/news/hinh-ctnh-5164.jpg" alt="Xử lý chất thải nguy hại">
+                        </a>
+                        <h3 class="sp_name"><a class="catchuoi2" href="/field_of_activity/{id}"
+                                title="Xử lý chất thải nguy hại">Xử lý chất thải nguy hại</a></h3>
                     </div>
-                    <div class="share">
-                        <b>Chia sẻ:</b>
-                        <div class="social-plugin w-clear">
-                            <div class="addthis_inline_share_toolbox_qj48"></div>
-                            <div class="zalo-share-button" data-href="http://pedaco.com.vn/hieu-chung"
-                                data-oaid="579745863508352884" data-layout="2" data-color="blue"
-                                data-customize=false></div>
-                        </div>
+                    <div class="item">
+                        <a class="hover_sang1 sp_img" href="/field_of_activity/{id}"
+                            title="Xử lý chất thải công nghiệp">
+                            <img onerror="this.src='thumbs/280x220x1/assets/images/noimage.png';"
+                                src="thumbs/280x220x1/upload/news/26394-1996.jpg" alt="Xử lý chất thải công nghiệp">
+                        </a>
+                        <h3 class="sp_name"><a class="catchuoi2" href="/field_of_activity/{id}"
+                                title="Xử lý chất thải công nghiệp">Xử lý chất thải công nghiệp</a></h3>
+                    </div>
+                    <div class="item">
+                        <a class="hover_sang1 sp_img" href="/field_of_activity/{id}"
+                            title="Xử lý chất thải sinh hoạt">
+                            <img onerror="this.src='thumbs/280x220x1/assets/images/noimage.png';"
+                                src="thumbs/280x220x1/upload/news/rac-sinh-hoat-3909.jpg"
+                                alt="Xử lý chất thải sinh hoạt">
+                        </a>
+                        <h3 class="sp_name"><a class="catchuoi2" href="/field_of_activity/{id}"
+                                title="Xử lý chất thải sinh hoạt">Xử lý chất thải sinh hoạt</a></h3>
+                    </div>
+                    <div class="item">
+                        <a class="hover_sang1 sp_img" href="/field_of_activity/{id}"
+                            title="Thu mua các loại phế liệu - Tái chế dầu nhớt thải">
+                            <img onerror="this.src='thumbs/280x220x1/assets/images/noimage.png';"
+                                src="thumbs/280x220x1/upload/news/thu-mua-phe-lieu-gia-cao-tai-tphcm-quang-dat-dong-4211.jpg"
+                                alt="Thu mua các loại phế liệu - Tái chế dầu nhớt thải">
+                        </a>
+                        <h3 class="sp_name"><a class="catchuoi2" href="/field_of_activity/{id}"
+                                title="Thu mua các loại phế liệu - Tái chế dầu nhớt thải">Thu mua các loại phế liệu -
+                                Tái chế dầu nhớt thải</a></h3>
+                    </div>
+                    <div class="item">
+                        <a class="hover_sang1 sp_img" href="/field_of_activity/{id}"
+                            title="Thu gom - Vận chuyển - Tiêu hủy hàng hóa">
+                            <img onerror="this.src='thumbs/280x220x1/assets/images/noimage.png';"
+                                src="thumbs/280x220x1/upload/news/11172012114834pm-xe-ep-rac-hino-fg2-1400x875-4003.jpg"
+                                alt="Thu gom - Vận chuyển - Tiêu hủy hàng hóa">
+                        </a>
+                        <h3 class="sp_name"><a class="catchuoi2" href="/field_of_activity/{id}"
+                                title="Thu gom - Vận chuyển - Tiêu hủy hàng hóa">Thu gom - Vận chuyển - Tiêu hủy hàng
+                                hóa</a></h3>
                     </div>
                 </div>
-                <div class="lefttt">
-                    <p class="pp1">Giới thiệu</p>
-                    <ul>
-                        <li><a href="thu-ngo" title="Thư ngỏ">Thư ngỏ</a></li>
-                        <li><a href="gioi-thieu-ve-chu-dau-tu" title="Về chúng tôi">Về chúng tôi</a></li>
-                        <li><a href="co-cau-nguon-luc-cong-ty" title="Cơ cấu nguồn lực">Cơ cấu nguồn lực</a></li>
-                        <li><a href="nang-luc-van-chuyen" title="Năng lực vận chuyển">Năng lực vận chuyển</a></li>
-                    </ul>
-                </div>
+                <div class="pagination-home"></div>
             </div>
         </div>
         <div class="footer">
@@ -381,12 +327,12 @@
                     <div class="footer-news">
                         <h2 class="title-footer">menu</h2>
                         <ul class="footer-ul ftul flex ju wrap">
-                            <li><a href="{{url('/about')}}" title="Giới thiệu">Giới thiệu</a></li>
-                            <li><a href="{{url('/legal-record')}}" title="Hồ sơ pháp lý">Hồ sơ pháp lý</a></li>
-                            <li><a href="{{url('/event-news')}}" title="Tin tức sự kiện">Tin tức sự kiện</a></li>
-                            <li><a href="{{url('/field-of-activity')}}" title="Lĩnh vực hoạt động">Lĩnh vực hoạt động</a></li>
-                            <li><a href="{{url('/partner-customer')}}" title="Đối tác khách hàng">Đối tác khách hàng</a></li>
-                            <li><a href="{{url('/contact')}}" title="Liên hệ">Liên hệ</a></li>
+                            <li><a href="gioi-thieu" title="Giới thiệu">Giới thiệu</a></li>
+                            <li><a href="ho-so-phap-ly" title="Hồ sơ pháp lý">Hồ sơ pháp lý</a></li>
+                            <li><a href="tin-tuc" title="Tin tức sự kiện">Tin tức sự kiện</a></li>
+                            <li><a href="linh-vuc-hoat-dong" title="Lĩnh vực hoạt động">Lĩnh vực hoạt động</a></li>
+                            <li><a href="doi-tac" title="Đối tác khách hàng">Đối tác khách hàng</a></li>
+                            <li><a href="lien-he" title="Liên hệ">Liên hệ</a></li>
                         </ul>
                         <ul class="social social-footer">
                             <li><a href="https://www.google.com/" target="_blank"><img src="upload/photo/1-9152.png"
@@ -471,7 +417,7 @@
             var NN_FRAMEWORK = NN_FRAMEWORK || {};
             var CONFIG_BASE = 'http://pedaco.com.vn/';
             var WEBSITE_NAME = 'PEDACO';
-            var TIMENOW = '06/12/2023';
+            var TIMENOW = '02/12/2023';
             var SHIP_CART = false;
             var GOTOP = 'assets/images/top.png';
             var LANG = {
@@ -499,39 +445,24 @@
 
         <!-- Js Structdata -->
 
-        <!-- News -->
+        <!-- General -->
         <script type="application/ld+json">
         {
-            "@context": "https://schema.org",
-            "@type": "NewsArticle",
-            "mainEntityOfPage":
-            {
-                "@type": "WebPage",
-                "@id": "https://google.com/article"
-            },
-            "headline": "Tổng quan Khu Liên Hợp Xử Lý Chất Thải Lagi",
-            "image":
+            "@context" : "https://schema.org",
+            "@type" : "Organization",
+            "name" : "PEDACO",
+            "url" : "http://pedaco.com.vn/",
+            "sameAs" :
             [
-                "http://pedaco.com.vn/upload/news/environmental-audit-reporting-good-pr-or-bad-press-5124.jpg"
-            ],
-            "datePublished": "2020-12-17",
-            "dateModified": "1970-01-01",
-            "author":
+                                    "https://www.google.com/",                                    "https://www.google.com/"                            ],
+            "address":
             {
-                "@type": "Person",
-                "name": "PEDACO"
-            },
-            "publisher":
-            {
-                "@type": "Organization",
-                "name": "Google",
-                "logo":
-                {
-                    "@type": "ImageObject",
-                    "url": "http://pedaco.com.vn/upload/photo/logopedacomoi-6080.png"
-                }
-            },
-            "description": "Cải thiện chất lượng môi trường sống cho người dân trên địa bàn thị xã La Gi, tạo ra môi trường thuận lợi về xử lý chất thải để thu hút các nhà đầu tư đến đầu tư tại địa phương."
+                "@type": "PostalAddress",
+                "streetAddress": "Địa chỉ công ty, văn phòng",
+                "addressRegion": "Ho Chi Minh",
+                "postalCode": "70000",
+                "addressCountry": "vi"
+            }
         }
     </script>
 

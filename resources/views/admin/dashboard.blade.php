@@ -65,28 +65,10 @@
                         class="fas fa-search"></i></button>
             </div>
 
-            {{-- logout --}}
-            {{-- <x-app-layout> --}}
-                {{-- <x-slot name="header">
-                    <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                        {{ __('Dashboard') }}
-                    </h2>
-                </x-slot> --}}
-
-                {{-- <div class="py-12">
-                    <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-                        <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
-                            <div class="p-6 text-gray-900">
-                                {{ __("You're logged in!") }}
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </x-app-layout> --}}
 
         </form>
         <!-- Navbar-->
-        <ul class="navbar-nav ms-auto ms-md-0 me-3 me-lg-4">
+        {{-- <ul class="navbar-nav ms-auto ms-md-0 me-3 me-lg-4">
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button"
                     data-bs-toggle="dropdown" aria-expanded="false"><i class="fas fa-user fa-fw"></i></a>
@@ -99,7 +81,8 @@
                     <li><a class="dropdown-item" href="#!">Logout</a></li>
                 </ul>
             </li>
-        </ul>
+        </ul> --}}
+
     </nav>
     <div id="layoutSidenav">
         <div id="layoutSidenav_nav">

@@ -356,12 +356,14 @@
                     <div class="footer-news">
                         <h2 class="title-footer">menu</h2>
                         <ul class="footer-ul ftul flex ju wrap">
-                            <li><a href="{{url('/about')}}" title="Giới thiệu">Giới thiệu</a></li>
-                            <li><a href="{{url('/legal-record')}}" title="Hồ sơ pháp lý">Hồ sơ pháp lý</a></li>
-                            <li><a href="{{url('/event-news')}}" title="Tin tức sự kiện">Tin tức sự kiện</a></li>
-                            <li><a href="{{url('/field-of-activity')}}" title="Lĩnh vực hoạt động">Lĩnh vực hoạt động</a></li>
-                            <li><a href="{{url('/partner-customer')}}" title="Đối tác khách hàng">Đối tác khách hàng</a></li>
-                            <li><a href="{{url('/contact')}}" title="Liên hệ">Liên hệ</a></li>
+                            <li><a href="{{ url('/about') }}" title="Giới thiệu">Giới thiệu</a></li>
+                            <li><a href="{{ url('/legal-record') }}" title="Hồ sơ pháp lý">Hồ sơ pháp lý</a></li>
+                            <li><a href="{{ url('/event-news') }}" title="Tin tức sự kiện">Tin tức sự kiện</a></li>
+                            <li><a href="{{ url('/field-of-activity') }}" title="Lĩnh vực hoạt động">Lĩnh vực hoạt
+                                    động</a></li>
+                            <li><a href="{{ url('/partner-customer') }}" title="Đối tác khách hàng">Đối tác khách
+                                    hàng</a></li>
+                            <li><a href="{{ url('/contact') }}" title="Liên hệ">Liên hệ</a></li>
                         </ul>
                         <ul class="social social-footer">
                             <li><a href="https://www.google.com/" target="_blank"><img src="upload/photo/1-9152.png"
