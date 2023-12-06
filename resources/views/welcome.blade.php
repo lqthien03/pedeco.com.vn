@@ -20,7 +20,7 @@
             @if (Route::has('login'))
                 <div class="sm:fixed sm:top-0 sm:right-0 p-6 text-right z-10">
                     @auth
-                        <a href="{{ url('/home') }}" class="font-semibold text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Home</a>
+                        <a href="{{ url('/dashboard') }}" class="font-semibold text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Dashboard</a>
                     @else
                         <a href="{{ route('login') }}" class="font-semibold text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Log in</a>
 
@@ -253,8 +253,8 @@
                     <a class="logo-header" href=""><img onerror="this.src='';" src="" /></a>
                 </div>
                 <ul class="menu_desktop flex ja">
-                    <li><a class="transition active" href="{{ url('/home') }}" title="Home">
-                            <h2>Home</h2>
+                    <li><a class="transition active" href="{{ url('/dashboard') }}" title="Dashboard">
+                            <h2>Dashboard</h2>
                         </a></li>
                     <li><a class="transition " href="{{ url('/about') }}" title="About us">
                             <h2>About us</h2>
@@ -281,19 +281,19 @@
                             <h2>Field of operations</h2>
                         </a>
                         <ul>
-                            <li><span></span><a href="">
+                            <li><span></span><a href="{{ url('/home') }}">
                                     <h2>HAZARDOUS WASTE TREATMENT TECHNOLOGY</h2>
                                 </a></li>
-                            <li><span></span><a href="cong-nghe-xu-ly-chat-thai-cong-nghiep">
+                            <li><span></span><a href="{{ url('/home') }}">
                                     <h2>INDUSTRIAL WASTE TREATMENT TECHNOLOGY</h2>
                                 </a></li>
-                            <li><span></span><a href="cong-nghe-xu-ly-chat-thai-sinh-hoat">
+                            <li><span></span><a href="{{ url('/home') }}">
                                     <h2>INDUSTRIAL WASTE TREATMENT TECHNOLOGY</h2>
                                 </a></li>
-                            <li><span></span><a href="thu-mua-phe-lieu">
+                            <li><span></span><a href="{{ url('/home') }}">
                                     <h2>COLLECTION OF SCRAP, RECYCLING OIL WASTE</h2>
                                 </a></li>
-                            <li><span></span><a href="tieu-huy-hang-hoa">
+                            <li><span></span><a href="{{ url('/home') }}">
                                     <h2>COLLECTION, TRANSPORT DESTRUCTIVE GOODS</h2>
                                 </a></li>
                         </ul>
@@ -302,28 +302,27 @@
                             <h2>Legal records</h2>
                         </a>
                         <ul>
-                            <li><span></span><a href="chung-nhan-phap-ly">
+                            <li><span></span><a href="{{ url('/home') }}">
                                     <h2>CERTIFICATE OF ENVIRONMENT MANAGEMENT SYSTEM ISO 14001: 2015</h2>
                                 </a></li>
-                            <li><span></span><a
-                                    href="chung-nhan-he-thong-quan-ly-an-toan-suc-khoe-nghe-nghiep-iso-450012018">
+                            <li><span></span><a href="{{ url('/home') }}">
                                     <h2>SAFETY &amp; HEALTH MANAGEMENT SYSTEM ISO 45001: 2018 CERTIFICATION</h2>
                                 </a></li>
-                            <li><span></span><a href="chung-nhan-he-thong-quan-ly-chat-luong-iso-90012015">
+                            <li><span></span><a href="{{ url('/home') }}">
                                     <h2>CERTIFICATE OF QUALITY MANAGEMENT SYSTEM ISO 9001: 2015</h2>
                                 </a></li>
-                            <li><span></span><a href="giay-phep-hoat-dong-pedaco">
+                            <li><span></span><a href="{{ url('/home') }}">
                                     <h2>LICENSE TO OPERATION PEDACO GREEN ENVIRONMENT JOINT STOCK COMPANY</h2>
                                 </a></li>
                         </ul>
                     </li>
-                    <li><a class="transition " href="doi-tac" title="Client partner">
+                    <li><a class="transition " href="{{url('/home')}}" title="Client partner">
                             <h2>Client partner</h2>
                         </a></li>
-                    <li><a class="transition " href="tin-tuc" title="Event news">
+                    <li><a class="transition " href="{{ url('/event-news') }}" title="Event news">
                             <h2>Event news</h2>
                         </a></li>
-                    <li><a class="transition " href="lien-he" title="Contact us">
+                    <li><a class="transition " href="{{ url('/contact') }}" title="Contact us">
                             <h2>Contact us</h2>
                         </a></li>
                 </ul>
@@ -372,7 +371,7 @@
                     </a>
                 </div>
                 <div>
-                    <a href="http://pedaco.com.vn/thu-mua-phe-lieu" target="_blank" title="Slide">
+                    <a href="" target="_blank" title="Slide">
                         <img onerror="this.src='thumbs/1366x560x2/assets/images/noimage.png';"
                             src="thumbs/1366x560x1/upload/photo/collection-of-scrap-recycling-waste-oil-2233.jpg"
                             alt="Slide" title="Slide" />
@@ -401,12 +400,13 @@
                         <div class="slick_gt">
                             <div class="item_gt">
                                 <div class="flex ja wrap">
-                                    <a class="sp_img img_gt hover_sang1" href="thu-ngo" title="OPEN LETTER">
+                                    <a class="sp_img img_gt hover_sang1" href="{{ url('/open-letter') }}"
+                                        title="OPEN LETTER">
                                         <img onerror="this.src='thumbs/100x100x2/assets/images/noimage.png';"
                                             src="thumbs/100x100x2/upload/news/hinh-an-5496.jpg" alt="OPEN LETTER">
                                     </a>
                                     <div class="ndgt">
-                                        <h3 class="gt_name"><a class="catchuoi1" href="thu-ngo"
+                                        <h3 class="gt_name"><a class="catchuoi1" href="{{ url('/open-letter') }}"
                                                 title="OPEN LETTER">OPEN
                                                 LETTER</a></h3>
                                         <p class="mtgt catchuoi2">First of all, Pedaco Green Environment Joint Stock
@@ -421,14 +421,14 @@
                             </div>
                             <div class="item_gt">
                                 <div class="flex ja wrap">
-                                    <a class="sp_img img_gt hover_sang1" href="gioi-thieu-ve-chu-dau-tu"
+                                    <a class="sp_img img_gt hover_sang1" href="{{ url('/about-us') }}"
                                         title="INTRODUCTION TO THE INVESTOR">
                                         <img onerror="this.src='thumbs/100x100x2/assets/images/noimage.png';"
                                             src="thumbs/100x100x2/upload/news/download-7089.jpg"
                                             alt="INTRODUCTION TO THE INVESTOR">
                                     </a>
                                     <div class="ndgt">
-                                        <h3 class="gt_name"><a class="catchuoi1" href="gioi-thieu-ve-chu-dau-tu"
+                                        <h3 class="gt_name"><a class="catchuoi1" href="{{ url('/about-us') }}"
                                                 title="INTRODUCTION TO THE INVESTOR">INTRODUCTION TO THE INVESTOR</a>
                                         </h3>
                                         <p class="mtgt catchuoi2">Name of investor: PEDACO Green Environment Joint
@@ -441,14 +441,15 @@
                             </div>
                             <div class="item_gt">
                                 <div class="flex ja wrap">
-                                    <a class="sp_img img_gt hover_sang1" href="co-cau-nguon-luc-cong-ty"
+                                    <a class="sp_img img_gt hover_sang1" href="{{ url('/resource-structure') }}"
                                         title="COMPANY RESOURCES STRUCTURE">
                                         <img onerror="this.src='thumbs/100x100x2/assets/images/noimage.png';"
                                             src="thumbs/100x100x2/upload/news/26394-3327.jpg"
                                             alt="COMPANY RESOURCES STRUCTURE">
                                     </a>
                                     <div class="ndgt">
-                                        <h3 class="gt_name"><a class="catchuoi1" href="co-cau-nguon-luc-cong-ty"
+                                        <h3 class="gt_name"><a class="catchuoi1"
+                                                href="{{ url('/resource-structure') }}"
                                                 title="COMPANY RESOURCES STRUCTURE">COMPANY RESOURCES STRUCTURE</a>
                                         </h3>
                                         <p class="mtgt catchuoi2">PEDACO staff and staff have professional
@@ -538,13 +539,12 @@
                 <p class="slogan"></p>
                 <div class="slick_lvhd wap_item">
                     <div class="item">
-                        <a class="sp_img hover_sang1" href="cong-nghe-xu-ly-chat-thai-nguy-hai"
-                            title="HAZARDOUS WASTE TREATMENT TECHNOLOGY">
+                        <a class="sp_img hover_sang1" href="" title="HAZARDOUS WASTE TREATMENT TECHNOLOGY">
                             <img onerror="this.src='thumbs/280x220x2/assets/images/noimage.png';"
                                 src="thumbs/280x220x1/upload/news/hinh-ctnh-5164.jpg"
                                 alt="HAZARDOUS WASTE TREATMENT TECHNOLOGY">
                         </a>
-                        <h3 class="sp_name"><a class="catchuoi2" href="cong-nghe-xu-ly-chat-thai-nguy-hai"
+                        <h3 class="sp_name"><a class="catchuoi2" href=""
                                 title="HAZARDOUS WASTE TREATMENT TECHNOLOGY">HAZARDOUS WASTE TREATMENT TECHNOLOGY</a>
                         </h3>
                     </div>
@@ -849,12 +849,12 @@
                     <div class="footer-news">
                         <h2 class="title-footer">menu</h2>
                         <ul class="footer-ul ftul flex ju wrap">
-                            <li><a href="gioi-thieu" title="About us">About us</a></li>
-                            <li><a href="ho-so-phap-ly" title="Legal records">Legal records</a></li>
-                            <li><a href="tin-tuc" title="Event news">Event news</a></li>
-                            <li><a href="linh-vuc-hoat-dong" title="Field of operations">Field of operations</a></li>
-                            <li><a href="doi-tac" title="Client partner">Client partner</a></li>
-                            <li><a href="lien-he" title="Contact us">Contact us</a></li>
+                            <li><a href="{{ url('/home') }}" title="About us">About us</a></li>
+                            <li><a href="{{ url('/legal-records') }}" title="Legal records">Legal records</a></li>
+                            <li><a href="{{ url('/events-news') }}" title="Event news">Event news</a></li>
+                            <li><a href="" title="Field of operations">Field of operations</a></li>
+                            <li><a href="" title="Client partner">Client partner</a></li>
+                            <li><a href="" title="Contact us">Contact us</a></li>
                         </ul>
                         <ul class="social social-footer">
                             <li><a href="https://www.google.com/" target="_blank"><img src="upload/photo/1-9152.png"

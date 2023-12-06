@@ -9,9 +9,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
 <!-- Title, Keywords, Description -->
-<title>Giới thiệu</title>
+<title>CƠ CẤU NGUỒN LỰC CÔNG TY PEDACO.</title>
 <meta name="keywords" content=""/>
-<meta name="description" content=""/>
+<meta name="description" content="Đội ngũ nhân sự Công ty chính là giá trị cốt lõi, nhân tố quan trọng tạo nên sự thành công của đơn vị. Ban Lãnh đạo PEDACO luôn chú trọng trong công tác đào tạo, nâng cao trình độ chuyên môn cho đội ngũ CB-CNV."/>
 
 <!-- Robots -->
 <meta name="robots" content="index,follow" />
@@ -33,54 +33,54 @@
 <meta name="copyright" content="PEDACO - [info@pedaco.com.vn]" />
 
 <!-- Facebook -->
-<meta property="og:type" content="object" />
+<meta property="og:type" content="article" />
 <meta property="og:site_name" content="PEDACO" />
-<meta property="og:title" content="Giới thiệu" />
-<meta property="og:description" content="" />
-<meta property="og:url" content="http://pedaco.com.vn/gioi-thieu" />
-<meta property="og:image" content="" />
-<meta property="og:image:alt" content="Giới thiệu" />
-<meta property="og:image:type" content="" />
-<meta property="og:image:width" content="" />
-<meta property="og:image:height" content="" />
+<meta property="og:title" content="CƠ CẤU NGUỒN LỰC CÔNG TY PEDACO." />
+<meta property="og:description" content="Đội ngũ nhân sự Công ty chính là giá trị cốt lõi, nhân tố quan trọng tạo nên sự thành công của đơn vị. Ban Lãnh đạo PEDACO luôn chú trọng trong công tác đào tạo, nâng cao trình độ chuyên môn cho đội ngũ CB-CNV." />
+<meta property="og:url" content="http://pedaco.com.vn/co-cau-nguon-luc-cong-ty" />
+<meta property="og:image" content="http://pedaco.com.vn/thumbs/1600x1415x2/upload/news/26394-3327.jpg" />
+<meta property="og:image:alt" content="CƠ CẤU NGUỒN LỰC CÔNG TY PEDACO." />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="1600" />
+<meta property="og:image:height" content="1415" />
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="info@pedaco.com.vn" />
 <meta name="twitter:creator" content="PEDACO" />
-<meta property="og:url" content="http://pedaco.com.vn/gioi-thieu" />
-<meta property="og:title" content="Giới thiệu" />
-<meta property="og:description" content="" />
-<meta property="og:image" content="" />
+<meta property="og:url" content="http://pedaco.com.vn/co-cau-nguon-luc-cong-ty" />
+<meta property="og:title" content="CƠ CẤU NGUỒN LỰC CÔNG TY PEDACO." />
+<meta property="og:description" content="Đội ngũ nhân sự Công ty chính là giá trị cốt lõi, nhân tố quan trọng tạo nên sự thành công của đơn vị. Ban Lãnh đạo PEDACO luôn chú trọng trong công tác đào tạo, nâng cao trình độ chuyên môn cho đội ngũ CB-CNV." />
+<meta property="og:image" content="http://pedaco.com.vn/thumbs/1600x1415x2/upload/news/26394-3327.jpg" />
 
 <!-- Canonical -->
-<link rel="canonical" href="http://pedaco.com.vn/gioi-thieu" />
+<link rel="canonical" href="http://pedaco.com.vn/co-cau-nguon-luc-cong-ty" />
 
 <!-- Chống đổi màu trên IOS -->
 <meta name="format-detection" content="telephone=no">
 
 <!-- Viewport -->
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">    <link href="./assets/css/animate.min.css?v=kRGcim4os" rel="stylesheet">
-<link href="./assets/bootstrap/bootstrap.css?v=evNiKylFwH" rel="stylesheet">
-<link href="./assets/css/all.css?v=83jvnK8R7F" rel="stylesheet">
-<link href="./assets/fancybox3/jquery.fancybox.css?v=3XbBx388ID" rel="stylesheet">
-<link href="./assets/fancybox3/jquery.fancybox.style.css?v=agr1aQPxhN" rel="stylesheet">
-<link href="./assets/login/login.css?v=sBqZbp1t9P" rel="stylesheet">
-<link href="./assets/css/cart.css?v=hAXIWRNfMt" rel="stylesheet">
-<link href="./assets/photobox/photobox.css?v=i27ZK6GJpG" rel="stylesheet">
-<link href="./assets/slick/slick.css?v=8S8ye7qgHw" rel="stylesheet">
-<link href="./assets/slick/slick-theme.css?v=NBwAwWDCFc" rel="stylesheet">
-<link href="./assets/slick/slick-style.css?v=2TcW7wTpst" rel="stylesheet">
-<link href="./assets/simplyscroll/jquery.simplyscroll.css?v=jp5PHUCghq" rel="stylesheet">
-<link href="./assets/simplyscroll/jquery.simplyscroll-style.css?v=fqvNiwme7X" rel="stylesheet">
-<link href="./assets/fotorama/fotorama.css?v=JdsW3uqWi1" rel="stylesheet">
-<link href="./assets/fotorama/fotorama-style.css?v=M9JGj5MQZ0" rel="stylesheet">
-<link href="./assets/magiczoomplus/magiczoomplus.css?v=oeGOZI2D2U" rel="stylesheet">
-<link href="./assets/datetimepicker/jquery.datetimepicker.css?v=sv1UaEygY9" rel="stylesheet">
-<link href="./assets/owlcarousel2/owl.carousel.css?v=mWxbPLuWR5" rel="stylesheet">
-<link href="./assets/owlcarousel2/owl.theme.default.css?v=v4hyd9fOw9" rel="stylesheet">
-<link href="./assets/css/style.css?v=5m0faYwtTE" rel="stylesheet">
-<link href="./assets/css/media.css?v=7xJ4mSCHQE" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">    <link href="./assets/css/animate.min.css?v=c07jKC4LUL" rel="stylesheet">
+<link href="./assets/bootstrap/bootstrap.css?v=EWSXVBrGSz" rel="stylesheet">
+<link href="./assets/css/all.css?v=Kbwu7oxrIT" rel="stylesheet">
+<link href="./assets/fancybox3/jquery.fancybox.css?v=nUWr7ZnhdF" rel="stylesheet">
+<link href="./assets/fancybox3/jquery.fancybox.style.css?v=atGY4J7c1G" rel="stylesheet">
+<link href="./assets/login/login.css?v=ywoJ6Uw1py" rel="stylesheet">
+<link href="./assets/css/cart.css?v=LCwND4Mszm" rel="stylesheet">
+<link href="./assets/photobox/photobox.css?v=DOf6UWXXUZ" rel="stylesheet">
+<link href="./assets/slick/slick.css?v=xdKHAp367i" rel="stylesheet">
+<link href="./assets/slick/slick-theme.css?v=5ItKaMeKzQ" rel="stylesheet">
+<link href="./assets/slick/slick-style.css?v=6G2NgfVrrY" rel="stylesheet">
+<link href="./assets/simplyscroll/jquery.simplyscroll.css?v=bG07RnAiT4" rel="stylesheet">
+<link href="./assets/simplyscroll/jquery.simplyscroll-style.css?v=bYKtZNTuX5" rel="stylesheet">
+<link href="./assets/fotorama/fotorama.css?v=kwXAI1SWfo" rel="stylesheet">
+<link href="./assets/fotorama/fotorama-style.css?v=c57W2prLv" rel="stylesheet">
+<link href="./assets/magiczoomplus/magiczoomplus.css?v=Xhoftdqiig" rel="stylesheet">
+<link href="./assets/datetimepicker/jquery.datetimepicker.css?v=sqEWKKwCCX" rel="stylesheet">
+<link href="./assets/owlcarousel2/owl.carousel.css?v=6ZDwjjbyW" rel="stylesheet">
+<link href="./assets/owlcarousel2/owl.theme.default.css?v=pR1WyQsWvU" rel="stylesheet">
+<link href="./assets/css/style.css?v=6USlwxMGHO" rel="stylesheet">
+<link href="./assets/css/media.css?v=aHPH81pYX3" rel="stylesheet">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-S0Z4P4QZF4"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -97,7 +97,7 @@
     <li class="h-tel tel">0902384797</li>
     <li><a class="u-url ul" href="http://pedaco.com.vn/">http://pedaco.com.vn/</a></li>
 </ul>
-<h1 class="hidden-seoh">Giới thiệu</h1><div class="menu tss">
+<h1 class="hidden-seoh">Cơ cấu nguồn lực</h1><div class="menu tss">
     <div class="flex wrap ja wap_1200">
         <div class="logo tss">
             <a class="logo-header" href=""><img onerror="this.src='thumbs/105x104x2/assets/images/noimage.png';" src="thumbs/105x104x2/upload/photo/logopedacomoi-6080.png"/></a>
@@ -126,79 +126,48 @@
     <p class="langs">
                             <a href="ngon-ngu/en/"><img src="assets/images/en.jpg" alt="EN"></a>
             </p>
-</div><div class="breadCrumbs"><div class="wrap-content"><ol class="breadcrumb"><li class="breadcrumb-item"><a class="text-decoration-none" href="http://pedaco.com.vn/"><span>Trang chủ</span></a></li><li class="breadcrumb-item active"><a class="text-decoration-none" href="http://pedaco.com.vn/gioi-thieu"><span>Giới thiệu</span></a></li></ol><script type="application/ld+json">{"@context": "https://schema.org","@type": "BreadcrumbList","itemListElement": [{"@type":"ListItem","position":1,"name":"Gi\u1edbi thi\u1ec7u","item":"http:\/\/pedaco.com.vn\/gioi-thieu"}]}</script></div></div>        <div class=" wrap-main wap_1200 pd50 w-clear"><div class="content-main">
-			<div class="w-clear">
+</div><div class="breadCrumbs"><div class="wrap-content"><ol class="breadcrumb"><li class="breadcrumb-item"><a class="text-decoration-none" href="http://pedaco.com.vn/"><span>Trang chủ</span></a></li><li class="breadcrumb-item "><a class="text-decoration-none" href="http://pedaco.com.vn/gioi-thieu"><span>Giới thiệu</span></a></li><li class="breadcrumb-item active"><a class="text-decoration-none" href="http://pedaco.com.vn/co-cau-nguon-luc-cong-ty"><span>Cơ cấu nguồn lực</span></a></li></ol><script type="application/ld+json">{"@context": "https://schema.org","@type": "BreadcrumbList","itemListElement": [{"@type":"ListItem","position":1,"name":"Gi\u1edbi thi\u1ec7u","item":"http:\/\/pedaco.com.vn\/gioi-thieu"},{"@type":"ListItem","position":2,"name":"C\u01a1 c\u1ea5u ngu\u1ed3n l\u1ef1c","item":"http:\/\/pedaco.com.vn\/co-cau-nguon-luc-cong-ty"}]}</script></div></div>        <div class=" wrap-main wap_1200 pd50 w-clear">    <div class="w-clear">
 
-			<div class="righttt">
-			    				<div class="item_gt">
-					<div class="flex ja wrap">
-						<a class="hover_sang1 sp_img img_gt" href="thu-ngo" title="Thư ngỏ">
-				            <img onerror="this.src='thumbs/100x100x2/assets/images/noimage.png';" src="thumbs/100x100x2/upload/news/hinh-an-5496.jpg" alt="Thư ngỏ">
-				        </a>
-				        <div class="ndgt">
-							<h3 class="gt_name"><a class="catchuoi1" href="thu-ngo" title="Thư ngỏ">Thư ngỏ</a></h3>
-							<p class="mtgt catchuoi2"> PEDACO, là một trong những đơn vị tư vấn môi trường, có đầy đủ năng lực và chức năng về thu gom Chất thải công nghiệp, chất thải nguy hại, chất thải sinh hoạt và một số dịch vụ đi kèm như: thu mua phế liệu, thu mua và tái chế dầu nhớt thải.</p>
-						</div>
-				    </div>
-				</div>
-							<div class="item_gt">
-					<div class="flex ja wrap">
-						<a class="hover_sang1 sp_img img_gt" href="gioi-thieu-ve-chu-dau-tu" title="Về chúng tôi">
-				            <img onerror="this.src='thumbs/100x100x2/assets/images/noimage.png';" src="thumbs/100x100x2/upload/news/download-7089.jpg" alt="Về chúng tôi">
-				        </a>
-				        <div class="ndgt">
-							<h3 class="gt_name"><a class="catchuoi1" href="gioi-thieu-ve-chu-dau-tu" title="Về chúng tôi">Về chúng tôi</a></h3>
-							<p class="mtgt catchuoi2">Công ty Cổ phần Môi trường Xanh PEDACO hoạt động theo giấy phép đăng ký kinh doanh và đăng ký thuế số 3401201904 do Sở Kế hoạch &amp; Đầu tư tỉnh Bình Thuận cấp lần thứ 4 ngày 23 tháng 12 năm 2021.</p>
-						</div>
-				    </div>
-				</div>
-							<div class="item_gt">
-					<div class="flex ja wrap">
-						<a class="hover_sang1 sp_img img_gt" href="co-cau-nguon-luc-cong-ty" title="Cơ cấu nguồn lực">
-				            <img onerror="this.src='thumbs/100x100x2/assets/images/noimage.png';" src="thumbs/100x100x2/upload/news/26394-3327.jpg" alt="Cơ cấu nguồn lực">
-				        </a>
-				        <div class="ndgt">
-							<h3 class="gt_name"><a class="catchuoi1" href="co-cau-nguon-luc-cong-ty" title="Cơ cấu nguồn lực">Cơ cấu nguồn lực</a></h3>
-							<p class="mtgt catchuoi2">Đội ngũ nhân sự Công ty chính là giá trị cốt lõi, nhân tố quan trọng tạo nên sự thành công của đơn vị. Ban Lãnh đạo PEDACO luôn chú trọng trong công tác đào tạo, nâng cao trình độ chuyên môn cho đội ngũ CB-CNV.</p>
-						</div>
-				    </div>
-				</div>
-							<div class="item_gt">
-					<div class="flex ja wrap">
-						<a class="hover_sang1 sp_img img_gt" href="hieu-chung" title="Tổng quan Khu Liên Hợp Xử Lý Chất Thải Lagi">
-				            <img onerror="this.src='thumbs/100x100x2/assets/images/noimage.png';" src="thumbs/100x100x2/upload/news/environmental-audit-reporting-good-pr-or-bad-press-5124.jpg" alt="Tổng quan Khu Liên Hợp Xử Lý Chất Thải Lagi">
-				        </a>
-				        <div class="ndgt">
-							<h3 class="gt_name"><a class="catchuoi1" href="hieu-chung" title="Tổng quan Khu Liên Hợp Xử Lý Chất Thải Lagi">Tổng quan Khu Liên Hợp Xử Lý Chất Thải Lagi</a></h3>
-							<p class="mtgt catchuoi2">Cải thiện chất lượng môi trường sống cho người dân trên địa bàn thị xã La Gi, tạo ra môi trường thuận lợi về xử lý chất thải để thu hút các nhà đầu tư đến đầu tư tại địa phương.</p>
-						</div>
-				    </div>
-				</div>
-							<div class="item_gt">
-					<div class="flex ja wrap">
-						<a class="hover_sang1 sp_img img_gt" href="nang-luc-van-chuyen" title="Năng lực vận chuyển">
-				            <img onerror="this.src='thumbs/100x100x2/assets/images/noimage.png';" src="thumbs/100x100x2/upload/news/nang-luc-van-chuyen-7975-1005-1006.jpg" alt="Năng lực vận chuyển">
-				        </a>
-				        <div class="ndgt">
-							<h3 class="gt_name"><a class="catchuoi1" href="nang-luc-van-chuyen" title="Năng lực vận chuyển">Năng lực vận chuyển</a></h3>
-							<p class="mtgt catchuoi2"></p>
-						</div>
-				    </div>
-				</div>
-						    		    </div>
-		    <div class="lefttt">
-				<p class="pp1">Giới thiệu</p>
-									<ul>
-													<li><a href="thu-ngo" title="Thư ngỏ">Thư ngỏ</a></li>
-													<li><a href="gioi-thieu-ve-chu-dau-tu" title="Về chúng tôi">Về chúng tôi</a></li>
-													<li><a href="co-cau-nguon-luc-cong-ty" title="Cơ cấu nguồn lực">Cơ cấu nguồn lực</a></li>
-													<li><a href="hieu-chung" title="Tổng quan Khu Liên Hợp Xử Lý Chất Thải Lagi">Tổng quan Khu Liên Hợp Xử Lý Chất Thải Lagi</a></li>
-													<li><a href="nang-luc-van-chuyen" title="Năng lực vận chuyển">Năng lực vận chuyển</a></li>
-											</ul>
-							</div>
-		</div>
-	    <div class="pagination-home"></div>
-</div></div>
+        <div class="righttt">
+            <p class="pp1">Cơ cấu nguồn lực</p>
+
+                            <div class="content-main w-clear" id="toc-content"><p style="margin-top:0,0000pt;margin-bottom:0,0000pt;"><span style="line-height:2;"><span style="font-size:18px;"><span style="font-family:Arial,Helvetica,sans-serif;">Nhân sự tại PEDACO có trình độ chuyên môn và giàu kinh nghiệm về lĩnh vực môi trường. Ngoài ra, Công ty chúng tôi được hỗ trợ, cố vấn từ các chuyên gia môi trường có uy tín nên có thể đáp ứng mọi yêu cầu khắt khe nhất của Quý khách hàng.</span></span></span></p>
+
+<p style="text-indent:36,0000pt;line-height:150%;"><span style="line-height:2;"><span style="font-size:18px;"><span style="font-family:Arial,Helvetica,sans-serif;">Đội ngũ nhân sự chính là giá trị cốt lõi, nhân tố quan trọng tạo nên sự thành công của đơn vị. Ban Lãnh đạo PEDACO luôn chú trọng trong công tác đào tạo, nâng cao trình độ chuyên môn cho đội ngũ CB-CNV. </span></span></span></p>
+
+<p style="text-indent:36,0000pt;line-height:150%;"><span style="line-height:2;"><span style="font-size:18px;"><span style="font-family:Arial,Helvetica,sans-serif;">Xây dựng môi trường làm việc an toàn, tạo tinh thần làm việc đoàn kết hướng đến một cuộc sống chất lượng cho Người lao động chính là một trong những giá trị cốt lõi tại PEDACO.</span></span></span></p>
+
+<p style="margin-top:0,0000pt;margin-bottom:0,0000pt;"><!--[if--><!--[if--><!--[if--><!--[endif]--><!--[endif]--><!--[endif]--><span style="line-height:2;"><span style="font-size:18px;"><span style="font-family:Arial,Helvetica,sans-serif;"><strong><span style="font-weight:bold;">Cơ cấu Phòng/ban Công ty:</span></strong></span></span></span><!--![endif]--><!--![endif]--><!--![endif]--><!--![if--><!--![if--><!--![if--></p>
+
+<ol>
+	<li value="NaN"><!--[if--><!--[if--><!--[if--><!--[if--><!--[endif]--><!--[endif]--><!--[endif]--><!--[endif]--><span style="line-height:2;"><span style="font-size:18px;"><span style="font-family:Arial,Helvetica,sans-serif;">Hội đồng Quản trị</span></span></span></li>
+	<li value="NaN"><span style="line-height:2;"><span style="font-size:18px;"><span style="font-family:Arial,Helvetica,sans-serif;">Ban Tổng Giám đốc</span></span></span><!--![endif]--><!--![endif]--><!--![endif]--><!--![endif]--><!--![if--><!--![if--><!--![if--><!--![if--></li>
+	<li value="NaN"><!--[if--><!--[if--><!--[if--><!--[if--><!--[if--><!--[endif]--><!--[endif]--><!--[endif]--><!--[endif]--><!--[endif]--><span style="line-height:2;"><span style="font-size:18px;"><span style="font-family:Arial,Helvetica,sans-serif;">Phòng Kinh doanh</span></span></span></li>
+	<li value="NaN"><span style="line-height:2;"><span style="font-size:18px;"><span style="font-family:Arial,Helvetica,sans-serif;">Phòng Quản lý Dự án</span></span></span><!--![endif]--><!--![endif]--><!--![endif]--><!--![endif]--><!--![endif]--><!--![if--><!--![if--><!--![if--><!--![if--><!--![if--></li>
+	<li value="NaN"><!--[if--><!--[if--><!--[if--><!--[if--><!--[if--><!--[if--><!--[endif]--><!--[endif]--><!--[endif]--><!--[endif]--><!--[endif]--><!--[endif]--><span style="line-height:2;"><span style="font-size:18px;"><span style="font-family:Arial,Helvetica,sans-serif;">Phòng Tài chính Kế toán</span></span></span><!--![endif]--><!--![endif]--><!--![endif]--><!--![endif]--><!--![endif]--><!--![endif]--><!--![if--><!--![if--><!--![if--><!--![if--><!--![if--><!--![if--></li>
+	<li value="NaN"><!--[if--><!--[if--><!--[if--><!--[if--><!--[if--><!--[if--><!--[if--><!--[endif]--><!--[endif]--><!--[endif]--><!--[endif]--><!--[endif]--><!--[endif]--><!--[endif]--><span style="line-height:2;"><span style="font-size:18px;"><span style="font-family:Arial,Helvetica,sans-serif;">Phòng Hành chính Nhân sự</span></span></span><!--![endif]--><!--![endif]--><!--![endif]--><!--![endif]--><!--![endif]--><!--![endif]--><!--![endif]--><!--![if--><!--![if--><!--![if--><!--![if--><!--![if--><!--![if--><!--![if--></li>
+	<li value="NaN"><!--[if--><!--[if--><!--[if--><!--[if--><!--[if--><!--[if--><!--[if--><!--[if--><!--[endif]--><!--[endif]--><!--[endif]--><!--[endif]--><!--[endif]--><!--[endif]--><!--[endif]--><!--[endif]--><span style="line-height:2;"><span style="font-size:18px;"><span style="font-family:Arial,Helvetica,sans-serif;">Khối hoạt động Sản xuất: Gồm Ban Giám đốc Nhà máy và hàng trăm CB-CNV phụ trách các Bộ phận, vận hành tại Khu liên hợp Xử lý chất thải Lagi – Bình Thuận.</span></span></span><!--![endif]--><!--![endif]--><!--![endif]--><!--![endif]--><!--![endif]--><!--![endif]--><!--![endif]--><!--![endif]--><!--![if--><!--![if--><!--![if--><!--![if--><!--![if--><!--![if--><!--![if--><!--![if--></li>
+</ol>
+</div>
+                <div class="share">
+                    <b>Chia sẻ:</b>
+                    <div class="social-plugin w-clear">
+                        <div class="addthis_inline_share_toolbox_qj48"></div>
+                        <div class="zalo-share-button" data-href="http://pedaco.com.vn/co-cau-nguon-luc-cong-ty" data-oaid="579745863508352884" data-layout="2" data-color="blue" data-customize=false></div>
+                    </div>
+                </div>
+                    </div>
+        <div class="lefttt">
+            <p class="pp1">Giới thiệu</p>
+                            <ul>
+                                            <li><a href="thu-ngo" title="Thư ngỏ">Thư ngỏ</a></li>
+                                            <li><a href="gioi-thieu-ve-chu-dau-tu" title="Về chúng tôi">Về chúng tôi</a></li>
+                                            <li><a href="hieu-chung" title="Tổng quan Khu Liên Hợp Xử Lý Chất Thải Lagi">Tổng quan Khu Liên Hợp Xử Lý Chất Thải Lagi</a></li>
+                                            <li><a href="nang-luc-van-chuyen" title="Năng lực vận chuyển">Năng lực vận chuyển</a></li>
+                                    </ul>
+                    </div>
+    </div>
+</div>
         <div class="footer">
     <div class="footer-article tdt">
         <div class="wap_1200 flex wrap ju">
@@ -313,7 +282,7 @@
     var NN_FRAMEWORK = NN_FRAMEWORK || {};
     var CONFIG_BASE = 'http://pedaco.com.vn/';
     var WEBSITE_NAME = 'PEDACO';
-    var TIMENOW = '02/12/2023';
+    var TIMENOW = '06/12/2023';
     var SHIP_CART = false;
     var GOTOP = 'assets/images/top.png';
     var LANG = {
@@ -339,24 +308,39 @@
 
 <!-- Js Structdata -->
 
-    <!-- General -->
+    <!-- News -->
     <script type="application/ld+json">
         {
-            "@context" : "https://schema.org",
-            "@type" : "Organization",
-            "name" : "PEDACO",
-            "url" : "http://pedaco.com.vn/",
-            "sameAs" :
-            [
-                                    "https://www.google.com/",                                    "https://www.google.com/"                            ],
-            "address":
+            "@context": "https://schema.org",
+            "@type": "NewsArticle",
+            "mainEntityOfPage":
             {
-                "@type": "PostalAddress",
-                "streetAddress": "Địa chỉ công ty, văn phòng",
-                "addressRegion": "Ho Chi Minh",
-                "postalCode": "70000",
-                "addressCountry": "vi"
-            }
+                "@type": "WebPage",
+                "@id": "https://google.com/article"
+            },
+            "headline": "Cơ cấu nguồn lực",
+            "image":
+            [
+                "http://pedaco.com.vn/upload/news/26394-3327.jpg"
+            ],
+            "datePublished": "2020-12-17",
+            "dateModified": "1970-01-01",
+            "author":
+            {
+                "@type": "Person",
+                "name": "PEDACO"
+            },
+            "publisher":
+            {
+                "@type": "Organization",
+                "name": "Google",
+                "logo":
+                {
+                    "@type": "ImageObject",
+                    "url": "http://pedaco.com.vn/upload/photo/logopedacomoi-6080.png"
+                }
+            },
+            "description": "Đội ngũ nhân sự Công ty chính là giá trị cốt lõi, nhân tố quan trọng tạo nên sự thành công của đơn vị. Ban Lãnh đạo PEDACO luôn chú trọng trong công tác đào tạo, nâng cao trình độ chuyên môn cho đội ngũ CB-CNV."
         }
     </script>
 
